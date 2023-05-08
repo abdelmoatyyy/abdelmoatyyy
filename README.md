@@ -28,7 +28,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://leetcode.com/abdelmoatyy/" target="blank"><img align="center"
-      src="https://iconscout.com/icon/leetcode-3628885"
+      src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job"
       alt="adampithewan" height="30" width="40" /></a>
 
 </p>
