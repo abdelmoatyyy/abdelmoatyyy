@@ -27,17 +27,15 @@
   <a href="[https://instagram.com/_._.adam._](https://instagram.com/ahmedabdelmoatyy?igshid=ZGUzMzM3NWJiOQ==)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://leetcode.com/abdelmoatyy/" target="blank"><img align="center"
-      src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job"
-      alt="adampithewan" height="30" width="40" /></a>
+
 
 </p>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img
+      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
